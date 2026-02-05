@@ -1,0 +1,2 @@
+# Requires: unlikely-absence
+# (Not available on PyPI)
